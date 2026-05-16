@@ -1,4 +1,4 @@
-# 
+# premium Trading Bot for bitmex trading bot | trailing-stop & high-frequency is the best bitmex trading bot, featuring trailing-stop and high-frequency. Smart, fast, and optimized
 
 
 
